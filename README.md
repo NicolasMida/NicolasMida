@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm <b>Nicolas MIDA</b>, a french student in computer science at [ALGOSUP](https://algosup.com/).
+Hey, I'm <b>Nicolas MIDA</b>, a french student in computer sciences.
 
 
 ## 🌐 Socials:
